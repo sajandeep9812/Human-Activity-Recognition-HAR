@@ -1,4 +1,7 @@
 # Human Activity Recognition (HAR) using Sensor Fusion  
+## 📄 Research Paper
+Read the full report here: [Human Activity Detection Paper (PDF)](https://drive.google.com/file/d/1fRXHi0hpfc6uKKnCijgORsrq9BZRQ7lx/view)
+
 
 ## Overview  
 This project implements **Human Activity Recognition (HAR)** using time-series data from wearable motion sensors (accelerometer & gyroscope). By combining two benchmark datasets — **UCI HAR** and **PAMAP2** — we designed robust deep learning models to classify human activities such as walking, sitting, standing, and lying down.  
