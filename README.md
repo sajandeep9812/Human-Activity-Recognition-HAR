@@ -12,9 +12,13 @@ The work explores **sensor fusion**, advanced preprocessing techniques, and hybr
 -  **Preprocessing**: Resampling (K-Max Pooling), normalization, segmentation (2.56s windows, 50% overlap), and label alignment.  
 -  **Deep Learning Models**: Implemented 1D-CNN, LSTM, Bi-LSTM, and hybrid CNN-LSTM with Attention.  
 -  **Performance**: Achieved ~91% accuracy and 90.8% F1-score across six core activities.  
--  **Applications**: Smart healthcare (fall detection, elderly monitoring), fitness tracking, IoT automation, firefighting/military safety monitoring.  
+-  **Applications**: Smart healthcare (fall detection, elderly monitoring), fitness tracking, IoT automation, firefighting/military safety monitoring.
 
----
+
+<img width="337" height="120" alt="Screenshot 2025-08-15 at 11 29 58 AM" src="https://github.com/user-attachments/assets/fb1757e5-5b76-49a9-a77d-6f26e5e15858" />
+
+<img width="462" height="153" alt="Screenshot 2025-08-15 at 11 29 53 AM" src="https://github.com/user-attachments/assets/8ad3ac5b-854c-4cce-ac3a-c16a84acf7b0" />
+
 
 
 ---
