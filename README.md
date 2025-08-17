@@ -63,11 +63,7 @@ The work explores **sensor fusion**, advanced preprocessing techniques, and hybr
 -  Military & Firefighting: Real-time activity monitoring for safety  
 
 ---
-
-##  Author  
-**Sajandeep Singh**  
 - 🌐 [LinkedIn](www.linkedin.com/in/sajandeep9812)  
 - 📧 work.sajandeep@gmail.com  
-
 ---
 
