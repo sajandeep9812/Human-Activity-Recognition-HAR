@@ -1,5 +1,5 @@
 # Human Activity Recognition (HAR) using Sensor Fusion  
-## 📄 Research Paper
+##  Research Paper
 Read the full report here: [Human Activity Detection Paper (PDF)](https://drive.google.com/file/d/1fRXHi0hpfc6uKKnCijgORsrq9BZRQ7lx/view)
 
 
