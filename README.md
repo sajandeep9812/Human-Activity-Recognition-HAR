@@ -11,13 +11,13 @@ The work explores **sensor fusion**, advanced preprocessing techniques, and hybr
 -  **Sensor Fusion**: Combined accelerometer and gyroscope signals along 3 axes (X, Y, Z).  
 -  **Preprocessing**: Resampling (K-Max Pooling), normalization, segmentation (2.56s windows, 50% overlap), and label alignment.  
 -  **Deep Learning Models**: Implemented 1D-CNN, LSTM, Bi-LSTM, and hybrid CNN-LSTM with Attention.  
--  **Performance**: Achieved ~91% accuracy and 90.8% F1-score across six core activities.  
+-  **Performance**: Achieved ~91% accuracy and ~89% F1-score across six core activities.  
 -  **Applications**: Smart healthcare (fall detection, elderly monitoring), fitness tracking, IoT automation, firefighting/military safety monitoring.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fb1757e5-5b76-49a9-a77d-6f26e5e15858" alt="Raw Data" width="600"/>
+  <img src="https://github.com/user-attachments/assets/8ad3ac5b-854c-4cce-ac3a-c16a84acf7b0" alt="Time Window Segmentation" width="700"/>
+</p>
 
-
-<img width="337" height="120" alt="Screenshot 2025-08-15 at 11 29 58 AM" src="https://github.com/user-attachments/assets/fb1757e5-5b76-49a9-a77d-6f26e5e15858" />
-
-<img width="462" height="153" alt="Screenshot 2025-08-15 at 11 29 53 AM" src="https://github.com/user-attachments/assets/8ad3ac5b-854c-4cce-ac3a-c16a84acf7b0" />
 
 
 
@@ -30,11 +30,10 @@ The work explores **sensor fusion**, advanced preprocessing techniques, and hybr
 | PAMAP2 (Hand) | 1D-CNN     | 92.08%   | 92.18    |
 | UCI + PAMAP2  | CNN-LSTM   | 90.58%   | 88.82    |
 
-- **Validation Accuracy:** 90.84%  
-- **Validation F1-Score:** 90.82% (macro weighted)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/aaaaab0d-fd74-4448-9d69-3b133b98ec1d" alt="HAR Preprocessing Visualization" width="700"/>
+</p>
 
-
-<img width="467" height="336" alt="Screenshot 2025-08-15 at 11 29 41 AM" src="https://github.com/user-attachments/assets/aaaaab0d-fd74-4448-9d69-3b133b98ec1d" />
 
 
 ---
@@ -49,7 +48,7 @@ The work explores **sensor fusion**, advanced preprocessing techniques, and hybr
 - **Python**, **NumPy**, **Pandas**, **Matplotlib**  
 - **TensorFlow / Keras**  
 - **Scikit-learn**  
-- **Jupyter Notebook**  
+- **Google Colab**  
 
 ---
 
