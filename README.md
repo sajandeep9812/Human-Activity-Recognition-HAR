@@ -50,7 +50,6 @@ The work explores **sensor fusion**, advanced preprocessing techniques, and hybr
 ##  Tech Stack  
 - **Python**, **NumPy**, **Pandas**, **Matplotlib**  
 - **TensorFlow / Keras**  
-- **Scikit-learn**  
 - **Google Colab**  
 
 ---
